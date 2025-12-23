@@ -1,0 +1,131 @@
+{
+    "universite_adi": "İstanbul Kültür Üniversitesi",
+    "bolumler": {
+        "bilgisayar_programcılığ": {
+            "amacı": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=3&p=29&f=7&r=0&ects=main",
+            "ders_plani": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=3&p=29&f=7&r=0&ects=ders"
+        },
+        "mimarlık": {
+            "amacı": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=1&f=11&p=15&r=0&ects=main",
+            "ders_plani": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=1&p=15&f=11&r=0&ects=ders"
+        },
+        "bilgisayar_mühendisliği": {
+            "amacı": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=1&f=4&p=11&r=0&ects=main",
+            "ders_plani": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=1&p=11&f=4&r=0&ects=ders"
+        },
+        "işletme": {
+            "amacı": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=1&f=3&p=9&r=0&ects=main",
+            "ders_plani": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=1&p=9&f=3&r=0&ects=ders"
+        },
+        "hukuk": {
+            "amacı": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=1&f=2&p=7&r=0&ects=main",
+            "ders_plani": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=1&p=7&f=2&r=0&ects=ders"
+        },
+        "dijital_oyun_tasarımı": {
+            "amacı": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=1&f=5&p=188&r=0&ects=main",
+            "ders_plani": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=1&p=188&f=5&r=0&ects=ders"
+        },
+        "yazılım_mühendisliği": {
+            "amacı": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=1&f=4&p=190&r=0&ects=main",
+            "ders_plani": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=1&p=190&f=4&r=0&ects=ders"
+        },
+        "bankacılıkvesigortacılık": {
+            "amacı": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=3&f=6&p=20&r=0&ects=main",
+            "ders_plani": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=3&p=20&f=6&r=0&ects=ders"
+        },
+        "dış_ticaret": {
+            "amacı": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=3&f=6&p=21&r=0&ects=main",
+            "ders_plani": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=3&p=21&f=6&r=0&ects=ders"
+        },
+        "grafik_tasarım": {
+            "amacı": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=3&f=6&p=22&r=0&ects=main",
+            "ders_plani": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=3&p=22&f=6&r=0&ects=ders"
+        },
+        "Halkla_ilişkşler_ve_tanıtım": {
+            "amacı": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=3&f=6&p=23&r=0&ects=main",
+            "ders_plani": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=3&p=23&f=6&r=0&ects=ders"
+        },
+        "hava_lojistiği": {
+            "amacı": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=3&f=6&p=80&r=0&ects=main",
+            "ders_plani": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=3&p=80&f=6&r=0&ects=ders"
+        },
+        "mahkeme_büro_hizmetleri": {
+            "amacı": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=3&f=6&p=191&r=0&ects=main",
+            "ders_plani": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=3&p=191&f=6&r=0&ects=ders"
+        },
+        "moda_tasarım": {
+            "amacı": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=3&f=6&p=96&r=0&ects=main",
+            "ders_plani": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=3&p=96&f=6&r=0&ects=ders"
+        },
+        "lojistik": {
+            "amacı": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=3&f=6&p=25&r=0&ects=main",
+            "ders_plani": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=3&p=25&f=6&r=0&ects=ders"
+        },
+        "işletme_yönetimi": {
+            "amacı": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=3&f=6&p=24&r=0&ects=main",
+            "ders_plani": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=3&p=24&f=6&r=0&ects=ders"
+        },
+        "sivil_hava_ulaştırma_işletmeciliği": {
+            "amacı": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=3&f=6&p=79&r=0&ects=main",
+            "ders_plani": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=3&p=79&f=6&r=0&ects=ders"
+        },
+        "sivil_havacılık_kabin_hizmetleri": {
+            "amacı": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=1&f=6&p=126&r=0&ects=main",
+            "ders_plani": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=1&p=126&f=6&r=0&ects=ders"
+        },
+        "tıbbi_dökümantasyon_ve_sekreterlik": {
+            "amacı": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=1&f=6&p=145&r=0&ects=main",
+            "ders_plani": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=1&p=145&f=6&r=0&ects=ders"
+        },
+        "alternatif_enerji_kaynakları": {
+            "amacı": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=1&f=7&p=154&r=0&ects=main",
+            "ders_plani": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=1&p=154&f=7&r=0&ects=ders"
+        },
+        "çocuk_gelişimi": {
+            "amacı": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=3&f=7&p=72&r=0&ects=main",
+            "ders_plani": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=3&p=72&f=7&r=0&ects=ders"
+        },
+        
+        "e_ticaret_ve_pazarlama": {
+            "amacı": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=1&f=7&p=171&r=0&ects=main",
+            "ders_plani": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=1&p=171&f=7&r=0&ects=ders"
+        },
+
+        "elektronik_teknolojisi": {
+            "amacı": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=1&f=7&p=155&r=0&ects=main",
+            "ders_plani": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=1&p=155&f=7&r=0&ects=ders"
+        },
+
+        "iklimlendirme_ve_sogutma_teknolojisi": {
+            "amacı": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=3&f=7&p=32&r=0&ects=main",
+            "ders_plani": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=3&p=32&f=7&r=0&ects=ders"
+        },
+
+        "insaat_teknolojisi": {
+            "amacı": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=3&f=7&p=137&r=0&ects=main",
+            "ders_plani": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=3&p=137&f=7&r=0&ects=ders"
+        },
+
+        "optisyenlik": {
+            "amacı": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=3&f=7&p=116&r=0&ects=main",
+            "ders_plani": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=3&p=116&f=7&r=0&ects=ders"
+        },
+
+        "ucak_teknolojisi": {
+            "amacı": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=3&f=7&p=73&r=0&ects=main",
+            "ders_plani": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=3&p=73&f=7&r=0&ects=ders"
+        },
+
+        "ucus_harekat_yoneticiligi": {
+            "amacı": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=1&f=7&p=146&r=0&ects=main",
+            "ders_plani": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=1&p=146&f=7&r=0&ects=ders"
+        },
+
+        "insansiz_hava_araci_teknolojisi_ve_operatorlugu": {
+            "amacı": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=1&f=7&p=200&r=0&ects=main",
+            "ders_plani": "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=1&p=200&f=7&r=0&ects=ders"
+        }
+
+    },
+    "erasmus_genel": "https://www.iku.edu.tr/tr/erasmus-ogrenim-hareketliligi"
+}
